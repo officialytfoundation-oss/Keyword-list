@@ -8,7 +8,7 @@ Provides all the keywords and leads of password so that is used in mobile phone 
 
 • Total Entries: 10,000 combinations
 
- # Common Uses:
+• Common Uses:
 
   • Mobile phone PINs/Screen locks
   
