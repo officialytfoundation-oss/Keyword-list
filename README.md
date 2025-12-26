@@ -1,6 +1,6 @@
 # Keyword-list
 Provides all the keywords and leads of password so that is used in mobile phone you can also get the password list of Kali Linux
-1. 4digit.txt (Mobile PIN Database)
+# 4digit.txt (Mobile PIN Database)
 
 • Format: 4-digit numeric codes
 
@@ -18,7 +18,7 @@ Provides all the keywords and leads of password so that is used in mobile phone 
   
   • ATM PIN combinations
 
-2. 6digit.txt (Extended Password Database)
+ # 6digit.txt (Extended Password Database)
 
 • Format: 6-digit numeric codes
 
