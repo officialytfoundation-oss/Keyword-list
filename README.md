@@ -3,6 +3,7 @@ Provides all the keywords and leads of password so that is used in mobile phone 
 1. 4digit.txt (Mobile PIN Database)
 
 • Format: 4-digit numeric codes
+
 • Range: 0000 to 9999
 • Total Entries: 10,000 combinations
 • Common Uses:
